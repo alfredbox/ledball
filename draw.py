@@ -2,9 +2,9 @@ from sense_to_position import sense_to_position
 from sense_hat import SenseHat
 sense = SenseHat()
 
-BLUE = (0,0,255)
-GREEN  = (0,255,0)
-RED  = (255,0,0)
+BLUE = (0,0,100)
+GREEN  = (0,100,0)
+RED  = (100,0,0)
 CLEAR = (0,0,0)
 
 def draw(pos, color):
